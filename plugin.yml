@@ -1,0 +1,6 @@
+name: ChatCensored
+version: 1.0.0
+api: [5.0.0]
+main: KumaDev\ChatCensored\Main
+author: KumaDeveloper
+description: Plugin to censor chat messages.
