@@ -1,5 +1,5 @@
 name: ChatCensored
-version: 1.1.0s
+version: 1.1.0
 api: [5.0.0]
 main: KumaDev\ChatCensored\Main
 author: KumaDeveloper
