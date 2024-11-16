@@ -1,9 +1,0 @@
-# Configuration ChatCensored
-
-# Allow OP players to bypass the chat censorship
-allow-op: true
-
-# List of censored words
-words:
-  - fuck
-  - idiot
